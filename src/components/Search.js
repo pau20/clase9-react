@@ -6,7 +6,7 @@ const Search = () => {
     const onInput = (e) => {
         // e.preventDefault()
         // console.log(e.key)
-        if (e.keyCode == 32) e.preventDefault()
+        if (e.keyCode === 32) e.preventDefault()
     }
 
     return (
