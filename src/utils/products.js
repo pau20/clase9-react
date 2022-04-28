@@ -2,10 +2,9 @@ const products = [
     {
       id: 30,
       name: "Zapatillas deportivas Adidas/Negras",
-      stock: 0,
+      stock: 100,
       cost: 16000,
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor libero, tincidunt id lacinia auctor, mattis elementum tortor. In eu bibendum magna, ac dignissim justo.",
-      capacity: 1500,
       image: [
         "http://falabella.scene7.com/is/image/FalabellaAR/6047115?wid=423&hei=423&qlt=70&crop=0,0,0,0"
       ],
@@ -31,7 +30,6 @@ const products = [
       stock: 100,
       cost: 14000,
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor libero, tincidunt id lacinia auctor, mattis elementum tortor. In eu bibendum magna, ac dignissim justo.",
-      capacity: 1500,
       image: [
         "http://falabella.scene7.com/is/image/FalabellaAR/4900251?wid=423&hei=423&qlt=70&crop=0,0,0,0"
       ],
@@ -62,7 +60,6 @@ const products = [
       stock: 92,
       cost: 21000,
       description: "Se muestra con tonos amarillo verdoso de intensidad media. En la nariz encontramos frutas blancas maduras, peras, manzanas y banana, frutas tropicales, con notas de la maduración en barricas sobre las borras como vainilla, manteca y miel. Buen volumen, complejo, maduro, con una entrada untuosa en la boca, buen desarrollo y largo final. Se repiten las notas frutales del aroma.",
-      capacity: 750,
       image: [
         "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw6a2c8ce3/products/FI_F01ST004023-1645/FI_F01ST004023-1645-1.JPG"
       ],
@@ -88,7 +85,6 @@ const products = [
       stock: 100,
       cost: 9500,
       description: "Rojo violáceo, profundo y vivaz con visos azulados. Nariz de frutos rojos y negros como cerezas, cassis, ciruelas y moras, integrados con los aromas de maduración en barrica como vainilla, tabaco y chocolate. Entrada en boca sedosa, buena estructura, con una marcada presencia de frutas rojas, taninos amables y dulces, concluyendo en un largo final de boca.",
-      capacity: 750,
       image: [
         "https://www.moovbydexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw5291702b/products/NI_DC2533-600/NI_DC2533-600-1.JPG"
       ],
@@ -114,7 +110,6 @@ const products = [
       stock: 100,
       cost: 20300,
       description: "La linea Alambrado esta compuesta por vinos elegantes y de estilo moderno, donde se destacan claramente las características frutales de las variedades que los componen. Su paso por madera les otorgan una complejidad muy particular, acompañando de manera armónica y sutil la calidad obtenida desde el viñedo. Poseen un potencial de guarda de entre 4 y 6 años.\nAlambrado Malbec fue elaborado a partir de una cuidosa selección de uvas cosechadas de forma manual y criado en barricas de roble francés durante 10 meses.",
-      capacity: 750,
       image: [
         "https://essential.vteximg.com.br/arquivos/ids/507938-454-423/316-0222_1.jpg?v=637756035595700000"
       ],
@@ -141,7 +136,6 @@ const products = [
       stock: 100,
       cost: 5780,
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor libero, tincidunt id lacinia auctor, mattis elementum tortor. In eu bibendum magna, ac dignissim justo.",
-      capacity: 700,
       image: [
         "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw77a6ccbe/products/LO_N2118845GL/LO_N2118845GL-1.JPG"
       ],
